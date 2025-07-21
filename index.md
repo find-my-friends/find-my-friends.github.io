@@ -62,7 +62,7 @@ The sign up page provides new users a way to create their account and become a n
 
 ## Project Pages
 ### M1
-M1 Project Page [M1] (https://github.com/orgs/find-my-friends/projects/1)
+M1 Project Page [M1](https://github.com/orgs/find-my-friends/projects/1)
 
 ### M2
-M2 Project Page [M2] (https://github.com/orgs/find-my-friends/projects/2/views/1)
+M2 Project Page [M2](https://github.com/orgs/find-my-friends/projects/2/views/1)
