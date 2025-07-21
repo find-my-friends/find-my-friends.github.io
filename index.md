@@ -23,19 +23,27 @@ By the end of the project, the system will include:
 - ✅ A secure, UH-verified messaging system  
 - ✅ Optional event suggestions to find peers attending the same UH events  
 
+---
+
 ## Links for Find My Friends
 Organization [Organization](https://github.com/find-my-friends)
 Project Homepage Repo [Homepage](https://github.com/find-my-friends/find-my-friends.github.io)
 App Repo [App](https://github.com/find-my-friends/find-my-friends-app)
 
+---
+
 ## Team Contract
 Team Contract [Contract] (https://docs.google.com/document/d/1Eysd0Iy83z_mRXBqKkvVC6nXLPw_i9AGmqLGSKx-TfA/edit?usp=sharing)
+
+---
 
 ## Deployment
 
 You can access the deployed version of the **Find My Friends** app here:
 
 [https://find-my-friends.vercel.app](https://find-my-friends-app.vercel.app/)
+
+---
 
 ## Project Pages
 ### Landing Page
@@ -50,8 +58,11 @@ The sign in page provides a clear way for users to login to use the site.
 The sign up page provides new users a way to create their account and become a new user of the site.
 ![SignUp](images/sign-up.png)
 
-## M1 Project Page
+---
+
+## Project Pages
+### M1
 M1 Project Page [M1] (https://github.com/orgs/find-my-friends/projects/1)
 
-## M2 Project Page
+### M2
 M2 Project Page [M2] (https://github.com/orgs/find-my-friends/projects/2/views/1)
