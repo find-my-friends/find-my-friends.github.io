@@ -33,7 +33,7 @@ App Repo [App](https://github.com/find-my-friends/find-my-friends-app)
 ---
 
 ## Team Contract
-Team Contract [Contract] (https://docs.google.com/document/d/1Eysd0Iy83z_mRXBqKkvVC6nXLPw_i9AGmqLGSKx-TfA/edit?usp=sharing)
+Team Contract [Contract](https://docs.google.com/document/d/1Eysd0Iy83z_mRXBqKkvVC6nXLPw_i9AGmqLGSKx-TfA/edit?usp=sharing)
 
 ---
 
