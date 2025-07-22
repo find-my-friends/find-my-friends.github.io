@@ -58,6 +58,10 @@ The sign in page provides a clear way for users to login to use the site.
 The sign up page provides new users a way to create their account and become a new user of the site.
 ![SignUp](images/sign-up.png)
 
+### Profile Page
+The profile page allows users to create their own profile as well as upload a profile picture. They can also view other users of the site and connect with them as well.
+![CreateProfile](images/create-profile.png)
+![Users](images/user-list.png)
 ---
 
 ## Project Pages
