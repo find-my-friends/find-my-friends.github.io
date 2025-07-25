@@ -64,6 +64,9 @@ The profile page allows users to create their own profile as well as upload a pr
 ![Users](images/user-list.png)
 ---
 
+## Group Events Page
+The group events page allows users to see iformaton about events hosted by others, or create and host thier own event 
+
 ## Project Pages
 ### M1
 M1 Project Page [M1](https://github.com/orgs/find-my-friends/projects/1)
