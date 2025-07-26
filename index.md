@@ -69,6 +69,10 @@ The group events page allows users to see iformaton about events hosted by other
 ![GroupEvents](images/group-events-1.png)
 ![GroupEvents](images/group-event-host1.png)
 
+## Match Page
+The match page is an interactive map that allows you to find potential friends based on location, interests, and more. 
+![MatchPage](images/match-page.png)
+
 ## Project Pages
 ### M1
 M1 Project Page [M1](https://github.com/orgs/find-my-friends/projects/1)
