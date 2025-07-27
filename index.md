@@ -62,16 +62,21 @@ The sign up page provides new users a way to create their account and become a n
 The profile page allows users to create their own profile as well as upload a profile picture. They can also view other users of the site and connect with them as well.
 ![CreateProfile](images/create-profile.png)
 ![Users](images/user-list.png)
----
 
-## Group Events Page
+### Group Events Page
 The group events page allows users to see iformaton about events hosted by others, or create and host thier own event. "Host an event" button leads to a forum where users can choose a title, date, and description for thier event. 
 ![GroupEvents](images/group-events-1.png)
 ![GroupEvents](images/group-event-host1.png)
 
-## Match Page
+### Match Page
 The match page is an interactive map that allows you to find potential friends based on location, interests, and more. 
 ![MatchPage](images/match-page.png)
+
+### Chat Feature
+The chat page allows you to chat with other users on the site to make plans or just get to know each other.
+![ChatPage](images/chat-page.png)
+
+---
 
 ## Project Pages
 ### M1
