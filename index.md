@@ -58,8 +58,12 @@ The sign in page provides a clear way for users to login to use the site.
 The sign up page provides new users a way to create their account and become a new user of the site.
 ![SignUp](images/sign-up.png)
 
+### Logged In Landing Page
+When users log in they're greeted with a welcome message as well as a navigation bar full of options for them to explore.
+![LogIn](images/logged-in-landing-page.png)
+
 ### Profile Page
-The profile page allows users to create their own profile as well as upload a profile picture. They can also view other users of the site and connect with them as well.
+The profile page allows users to create their own profile as well as upload a profile picture. They can also view other users of the site and connect with them as well via the "start chat" button.
 ![CreateProfile](images/create-profile.png)
 ![Users](images/user-list.png)
 
