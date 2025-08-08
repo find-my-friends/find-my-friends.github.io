@@ -68,12 +68,12 @@ The profile page allows users to create their own profile as well as upload a pr
 ![Users](images/user-list.png)
 
 ### Group Events Page
-The group events page allows users to see iformaton about events hosted by others, or create and host thier own event. "Host an event" button leads to a forum where users can choose a title, date, and description for thier event. 
+The group events page allows users to see informaton about events hosted by others, or create and host their own event. "Host an event" button leads to a forum where users can choose a title, date, and description for their event. 
 ![GroupEvents](images/group-events-1.png)
 ![GroupEvents](images/group-event-host1.png)
 
 ### Match Page
-The match page is an interactive map that allows you to find potential friends based on location, interests, and more. 
+The match page displays potential friends based on location, interests, and more. The list shown is determined based off a "score" system that is higher depending on how much your profile has in common with other profiles.
 ![MatchPage](images/matchpage.png)
 
 ### Chat Feature
