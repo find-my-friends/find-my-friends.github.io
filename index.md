@@ -74,7 +74,7 @@ The group events page allows users to see iformaton about events hosted by other
 
 ### Match Page
 The match page is an interactive map that allows you to find potential friends based on location, interests, and more. 
-![MatchPage](images/match-page.png)
+![MatchPage](images/matchpage.png)
 
 ### Chat Feature
 The chat page allows you to chat with other users on the site to make plans or just get to know each other.
