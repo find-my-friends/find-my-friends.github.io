@@ -1,5 +1,3 @@
-# Welcome to *Find My Friends*
-
 ## 💡 Project Overview  
 *Making Friends at UH* is a web-based platform designed to help University of Hawaiʻi students build real friendships based on shared interests, majors, and campus life. College can sometimes feel isolating, especially for new or transfer students—our goal is to create a safe, inclusive space where students can connect with others who share similar goals, hobbies, or academic paths.
 
