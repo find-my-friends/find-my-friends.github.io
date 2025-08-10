@@ -72,7 +72,7 @@ The group events page allows users to see informaton about events hosted by othe
 
 ### Match Page
 The match page displays potential friends based on location, interests, and more. The list shown is determined based off a "score" system that is higher depending on how much your profile has in common with other profiles.
-![MatchPage](images/matchpage.png)
+![MatchPage](images/match-page.png)
 
 ### Chat Feature
 The chat page allows you to chat with other users on the site to make plans or just get to know each other.
