@@ -69,7 +69,7 @@ The profile page allows users to create their own profile as well as upload a pr
 
 ### Group Events Page
 The group events page allows users to see informaton about events hosted by others, or create and host their own event. "Host an event" button leads to a forum where users can choose a title, date, and description for their event. 
-![GroupEvents](images/group-events-1.png)
+![GroupEvents](images/group-events.png)
 ![GroupEvents](images/group-event-host1.png)
 
 ### Match Page
